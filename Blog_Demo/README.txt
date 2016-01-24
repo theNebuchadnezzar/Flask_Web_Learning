@@ -1,0 +1,1 @@
+This is a blog demo based on Flask Web framwork.
